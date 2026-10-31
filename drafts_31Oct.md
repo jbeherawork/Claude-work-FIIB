@@ -15,7 +15,7 @@ This is to inform you that the following has been done -
      * 3:30 pm - Dr Sheikh Basharul Islam (Marketing), with Dr Kokil and Dr Fateh. He is currently at SRM University AP, with 8 years of total experience (5.6 years teaching, 2.5 years industry).
    * Coordinated with the Area Chairs to invite students to the interview panels.
    * Dr Jyoti Sharma (Finance) has been recommended for the next round.
-   * Dr Akshita Singh (Finance) has been recommended by Dr Ranjit for the final interaction. As she is based in Hyderabad, I have written to Dr Kokil to check if she can be considered and called to campus (she is a good faculty).
+   * Dr Akshita Singh (Finance) has been recommended by Dr Ranjit for the final interaction. As she is based in Hyderabad, I wrote to Dr Kokil to check if she can be considered and called to campus (she is a good faculty). Dr Kokil has given her consent to call Dr Akshita on campus.
 2. JD Postings on LinkedIn - Done for the following positions:
    * Placement Manager - CMC: https://www.linkedin.com/jobs/view/4485162276/
    * Assistant Professor - Finance: https://www.linkedin.com/jobs/view/4485160097/
@@ -27,11 +27,13 @@ This is to inform you that the following has been done -
 6. 360-Degree Feedback - Follow-up emails sent for the pending feedback (Mr Anirudh, Mr Vibhor Inderjeet and others).
 7. Promotions 2026 - Sent the promotion-related information along with the application proforma to all the eligible employees.
 8. Month-end Attendance - Coordinated with the Accounts department on the month-end attendance. They had some confusion about a few employees, which has been clarified.
-9. Ms Agrima - Written to her to complete the pending formalities.
-10. Ms Shruti - Sent a reminder to hand over the documents, as she moves to the consultant role from 1 Nov.
-11. Onboarding - Buddies assigned for the new joiners in Digital Marketing (Mr Sonu Kumar for Mr Amarjeet, Mr Harinder Negi for Mr Nishant). Reminder sent to Mr Vikram for his resignation acceptance and final joining date.
-12. Exit Tracker - A new Exit Tracker (exits from 1 Sep 2026 onwards) has been set up as per the exit SOP, and the clearance and email-ID closure status is updated.
-13. Recruitment Tracker - Updated with all the above. A new status "Keep in record" (yellow) is added for good profiles that do not fit the current opening but can be considered for similar roles later.
+9. Ms Shruti - Sent a reminder to hand over the documents, as she moves to the consultant role from 1 Nov. I have also written to Dr Kamdar regarding Ms Shruti's case and letter; he has asked to discuss it with him on Monday.
+10. Ms Pallabi - Her get-together is done. I have also taken the handover files from her, as 30 Oct 2026 was her last working day before she goes on maternity leave. She has also met Dr Kamdar.
+11. Dr Tavleen - She had dengue and was hospitalised, so get-well-soon flowers were sent to her.
+12. Onboarding - Buddies assigned for the new joiners in Digital Marketing (Mr Sonu Kumar for Mr Amarjeet, Mr Harinder Negi for Mr Nishant).
+13. Mr Vikram - Reminder sent to him for his resignation acceptance and final joining date.
+14. Exit Tracker - A new Exit Tracker (exits from 1 Sep 2026 onwards) has been set up as per the exit SOP. It is not complete yet and is shared just for your information - I am working on updating it properly.
+15. Recruitment Tracker - Updated with all the above. A new status "Keep in record" (yellow) is added for good profiles that do not fit the current opening but can be considered for similar roles later.
 
 Regards,
 
@@ -53,7 +55,9 @@ This is to inform you that the job postings for the following positions are live
 | 3 | L&D Manager | https://www.linkedin.com/jobs/view/4485153204/ | Paid - daily budget Rs 221/- |
 | 4 | Placement Head - CMC | https://www.linkedin.com/jobs/view/4485149932/ | Paid - daily budget Rs 228/- |
 
-The total daily budget for the paid postings is Rs 670/-. I will share the applications as they come in.
+The total daily budget for the paid postings is Rs 670/-. Ma'am, kindly approve, as the Accounts department needs it for their documentation.
+
+I will share the applications as they come in.
 
 Regards,
 
@@ -110,7 +114,7 @@ A. Telephonic round cleared
 
 (Nos. 8 to 12 are confirming on commute, work days or relocation; I will update you once they revert.)
 
-B. Strong CVs - call still to be completed
+B. Strong CVs - called, but they did not pick up (will try again)
 
 | S. No. | Name | Exp | Key work | CV |
 |---|---|---|---|---|
@@ -120,5 +124,29 @@ B. Strong CVs - call still to be completed
 | 16 | Falak Chandna | ~5 yrs | SEO blogs, landing pages, email campaigns, ad copy | https://drive.google.com/file/d/1tDk83uJx4SSLMDmiE2kI-e95Taxxk0U7/view |
 
 You are requested to kindly prepare the assignments as per each candidate's experience, and let me know which assignment is meant for whom, so that we can share them and schedule the next round.
+
+Regards,
+
+---
+
+## 5. Interview confirmation to Mr Lokesh Baghel
+
+To: Lokeshsingh141197@gmail.com
+Subject: Interview with FIIB - Tue, 3 Nov 2026, 2:00 PM
+
+Dear Mr Lokesh,
+
+Greetings from FIIB!
+
+Further to your interview with HR, we are pleased to inform you that your next round of interview for the Alumni Assistant Manager / Manager (MIS) position is scheduled as below:
+
+Date: Tuesday, 3rd November 2026
+Time: 2:00 PM
+Interviewer: Dr Ranjit Kaur
+Venue: FIIB Campus, Plot No. 5, Rao Tula Ram Marg, Vasant Vihar, New Delhi
+
+Kindly carry a copy of your updated CV and report at the reception 10 minutes before the scheduled time.
+
+Please confirm your availability by replying to this email.
 
 Regards,
