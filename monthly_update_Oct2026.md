@@ -29,7 +29,7 @@ Please find below a summary of the HR work from 1 October to 2 November 2026 - w
    * Separation letter issued to Dr Neha Goyal; Dr Pranav's notice period and LWD (9 Nov) settled with the Registrar.
 4. **Performance, rewards and promotions**
    * Increments 2025-26 finalised and approved (1 Oct).
-   * Promotions 2026: consolidated faculty and staff list with the proposed Promotion Panel plan shared with you; promotion information and application proforma sent to all eligible employees.
+   * Promotions 2026: consolidated faculty and staff list with the proposed Promotion Panel plan shared with Radhika ma'am; promotion information and application proforma sent to all eligible employees.
 5. **Employee matters**
    * Ms Shruti Chandra - move to a 4-day consultant role from 1 Nov finalised (3 days FBR, 1 day FRC).
    * Ms Pallabi Medhi - handover files taken before her maternity leave (LWD 30 Oct); get-together done.
@@ -37,20 +37,20 @@ Please find below a summary of the HR work from 1 October to 2 November 2026 - w
    * AACSB - faculty WFH data for AY 2025-26 shared with Dr Manish and Atul.
    * GPTW 2026 - data sheet reviewed and corrected; survey shared with Dr Kamdar.
    * Month-end attendance closed with Accounts (queries on a few employees clarified).
-   * Diwali Celebration 2026 plan shared with you for approval.
+   * Diwali Celebration 2026 plan shared with Radhika ma'am for approval.
 
 **C. Work in progress**
 
 1. **Open positions (7)**
    * Finance Faculty - Dr Sahiba Khan's campus round on 2 Nov; Dr Jyoti Sharma in the next round; Dr Akshita Singh to be called to campus for the final interaction (Dr Kokil has agreed).
-   * Marketing Faculty - Dr Basharul Islam's teaching and research round on 2 Nov; Dr Suchetana's final round with you and Dr Balaji awaiting slots.
+   * Marketing Faculty - Dr Basharul Islam's teaching and research round on 2 Nov; Dr Suchetana's final round with Radhika ma'am and Dr Balaji awaiting slots.
    * Content Writer - 70 new CVs screened on 30-31 Oct and 17 candidates called; 10 moving ahead. Assignments requested from Mr Abhishek Jain.
    * Alumni MIS - Mr Lokesh Baghel's interview with Dr Ranjit on 3 Nov.
-   * L&D Manager - Ms Charvee Khatri to meet Dr Kokil; your slot awaited for Mr Akshay.
+   * L&D Manager - Ms Charvee Khatri to meet Dr Kokil; Radhika ma'am's slot awaited for Mr Akshay.
    * Placement Head - CMC and Placement Manager - fresh CVs coming in from the new JD posting; screening in progress.
 2. **Joiners in November** - Mr Vikram's resignation acceptance awaited; salary breakup from Accounts awaited for Mr Jack, Mr Vikram and Mr Deepankar (for their appointment letters).
 3. **Exits** - separation letters pending for 9 past exits (to be signed by the Registrar); FnF to Accounts pending for 4; Dr Pranav's exit formalities before 9 Nov; Mr Akram's resignation on hold (pending task list).
-4. **Promotions 2026** - applications awaited; panel date to be fixed with you.
+4. **Promotions 2026** - applications awaited; panel date to be fixed with Radhika ma'am.
 5. **Appraisal / feedback**
    * Dr Anshita's appraisal case shared with Dr Kokil; recommendations of Dr Kokil and Dr Kamdar awaited.
    * 360-degree feedback follow-ups sent (Mr Anirudh, Mr Vibhor Inderjeet and others).
@@ -59,7 +59,7 @@ Please find below a summary of the HR work from 1 October to 2 November 2026 - w
 7. **Onboarding check-ins** - 1-week and 2-week surveys and 1-month check-ins for the October joiners to be completed.
 8. **HR systems** - KRA sheets for HR (mine and Rajni's) being revised; Weekly HR Report starts this week; old exit records being completed in the Exit Tracker.
 
-**D. Support needed from you**
+**D. Support needed from Radhika ma'am**
 
 1. Slots for Dr Suchetana's final round and for Mr Akshay (L&D).
 2. Promotion Panel date.
