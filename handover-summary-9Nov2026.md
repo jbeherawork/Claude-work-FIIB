@@ -121,7 +121,7 @@ Paste this whole file into the new chat.
 ## C. Drafts waiting for the user to send
 12. Dr Suchetana final round: slot request to Anish. **Urgent:** Dr Balaji is free 10–13 Nov, 1–4 pm.
 13. Charvee: slot request to Atul.
-14. "Re: Joining timeline" to Dibyendu.
+14. ~~"Re: Joining timeline" to Dibyendu~~ - SENT 9 Nov (6:18 pm).
 15. Basharul feedback reminder to Dr Kokil.
 16. 7 Nov mails:
     - shortlist to Dr Purnima
@@ -161,7 +161,7 @@ Paste this whole file into the new chat.
     - Slots needed for Ms Radhika Malhotra, Dr Akshita and Mr Akshay.
     - Priority 1 calls for Placement Head, Placement Manager and L&D.
     - Content Writer assignments to Mr Abhishek Jain.
-    - Did Dibyendu collect his letter and resign?
+    - Dibyendu: resignation mail to Masters' Union shared 9 Nov (w.e.f. 10 Nov 2026, last day there 9 Feb 2027). Get the SENT copy + acceptance. Fix joining date clash (FIIB joining = his MU last day, 9 Feb).
     - Interview outcomes: Sahiba, Basharul, Lokesh, Tripathi.
 
 ## F. Exit backlog
@@ -195,4 +195,58 @@ Paste this whole file into the new chat.
 55. The Faculty Handbook approval draft still links the 2025 version. Change it to 2024.
 56. Tell Accounts that Vikram's salary breakup is not needed (he is not joining). Delete Vikram's pre-joining draft.
 57. Dr Karan Grover's salary breakup: Accounts has not replied.
-58. Diwali: Snigdha asked for an earlier time.
+58. ~~Diwali: Snigdha asked for an earlier time~~ - DONE (9 Nov).
+
+---
+
+# SAME WORK LIST, SORTED BY TIME
+
+## QUICK and BULK (few minutes each, can be done in one sitting)
+
+**1. Send drafts already made (open Drafts, check, send):**
+- #7 Pranav clearance to Admin & Accounts (today)
+- #12 Dr Suchetana slot request to Anish (urgent)
+- #13 Charvee slot request to Atul
+- #15 Basharul feedback reminder to Dr Kokil
+- #16 7 Nov mails: Dr Purnima, Dr Kokil, Radhika ma'am
+- #17 Group exit survey, 9 leavers in BCC (first put back the direct form link)
+- #18 Pranav handover reminder
+- #19 Sep-Oct deactivation request
+
+**2. One-word yes/no replies to Claude (hiring approvals):**
+- #27 to #36: Gopika, Tripathi, Palak, Deepankar, Farha, Deepak, Indeed applicants, Sahiba, Basharul, Content Writer notes
+
+**3. One-word answers on process files:**
+- #45 to #50 and #53: CTC columns, Service Rules version, Staff Handbook version, promotion form version, presentation length, save exit templates, limit File 08 sharing
+
+**4. Small fixes and short mails:**
+- #55 Change the Faculty Handbook approval draft link to the 2024 version
+- #56 Tell Accounts Vikram's breakup not needed; delete his pre-joining draft
+- #57 Reminder to Accounts for Dr Karan Grover's breakup
+- #23 Share the 1-week and 2-week survey form links
+- #24 Draft 1-month check-in slot requests in one go (Atul, Piyush, Ayushi, Dr Vibhav, Muskan, Pallavi, Puneet)
+- #42 Confirm LWD for Akram and Agrima
+- #44 Find Abhishek's personal email
+- Dibyendu: ask for the SENT resignation copy + acceptance, and settle the joining date (FIIB joining 9 Feb = his last day at Masters' Union)
+
+**5. Date-fixed, quick when due:**
+- #11 Pranav deactivation request: 11 Nov
+- #26 Dr Vibhav probation self-review request: about 21 Nov
+
+## LONG (needs time, documents, people or approvals)
+- **#1-6 Teaching feedback into 5 one-pagers** (Alok, Priya, Wajid, Saurabh Bajaj, Indrajit Lehri): top priority
+- #8 Pranav separation letter (Registrar signs)
+- #9 Pranav farewell or gift
+- #10 Pranav handover and work plan (Mr Atul)
+- #20 Dean's approval of onboarding plan and buddy (16 Nov joiners)
+- #21 Jack's reference check
+- #22 Calendar invites and welcome slot for 16 Nov joiners (due 12-13 Nov)
+- #25 October joiners: orientation, workplan, Greythr
+- #37 Hiring: interviews, slots, Priority 1 calls, Lokesh re-test, CMC MIS restart
+- #38 Separation letters for 7 leavers
+- #39 Experience letters (Manu, Sanal, Digamber)
+- #40 FnF to Accounts (4 people)
+- #41 Gratuity for Dr Neha Goyal
+- #51 Missing templates and "Click here" links in the SOP
+- #52 Refresh master data (old, 28 Jul)
+- #54 Promotions open points
